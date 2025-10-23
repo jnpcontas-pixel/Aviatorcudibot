@@ -1,0 +1,2 @@
+# Aviatorcudibot
+Sinais do aviator
